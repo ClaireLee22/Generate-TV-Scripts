@@ -9,12 +9,15 @@ Generate a new TV script for a scene at Moe's Tavern using Recurrent Neural Netw
 - Preprocess the data
   - Transform words to ids
   - Tokenize punctuation
-- Create 
-- Build the network
-- Train the network
-- Make predictions
+- Create lookup table
+- Build RNN
+- Train RNN
+- Generate TV script
 
 ### Project Results
+- Generated TV script for a scene at Moe's Tavern successfully.
+- Need to get more data to train to get a better results.
+
 
 ## Getting Started
 ### Prerequisites
@@ -22,6 +25,7 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
+- [Tensorflow](https://www.tensorflow.org/install/pip)
 
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
