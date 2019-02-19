@@ -16,7 +16,7 @@ Generate a new TV script for a scene at Moe's Tavern using Recurrent Neural Netw
 
 ### Project Results
 - Generated TV script for a scene at Moe's Tavern successfully.
-- Need to get more data to train to get a better results.
+- Train on more data will get a better results.
 
 
 ## Getting Started
