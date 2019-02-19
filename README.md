@@ -21,7 +21,7 @@ Generate a new TV script for a scene at Moe's Tavern using Recurrent Neural Netw
 
 ## Getting Started
 ### Prerequisites
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3.6** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
