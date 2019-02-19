@@ -39,4 +39,7 @@ jupyter notebook Your_first_neural_network.ipynb
 This will open the iPython Notebook software and project file in your browser.
 
 ### Data
+```bash
+data/simpsons/moes_tavern_lines.txt
+```  
 Part of the Simpsons dataset of scripts which consists of only the scenes in Moe's Tavern.
