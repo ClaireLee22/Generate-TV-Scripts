@@ -6,9 +6,10 @@ RNN Project [Udacity Deep Learning Nanodegree]
 Generate a new TV script for a scene at Moe's Tavern using Recurrent Neural Network(RNN).
 
 ### Project Procedure
-- Preprocesse the data
-  - Scale continous features that they have zero mean and a standard deviation of 1.
-  - Split the data into training, testing, and validation sets
+- Preprocess the data
+  - Transform words to ids
+  - Tokenize punctuation
+- Create 
 - Build the network
 - Train the network
 - Make predictions
